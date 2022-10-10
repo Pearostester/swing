@@ -19,7 +19,7 @@ LoadingMac+Windows---SecurityStatus
 
 ---if copyed with the Codes we might put a sue law on you---
 ---No Webcam or mic needed---
-/// REQUIRES STORAGE THAT CONTAIN VIRUS OR PACKAGES WITH THESE UNSUPPORT APPS ///
+/// REQUIRES STORAGE THAT DOES NOT CONTAIN VIRUS OR PACKAGES WITH THESE UNSUPPORT APPS ///
 UNSUPPORTED
 
 RAINWAY
